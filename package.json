@@ -1,0 +1,28 @@
+{
+  "name": "training-with-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yevhenii3145/training-with-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yevhenii3145/training-with-webpack/issues"
+  },
+  "homepage": "https://github.com/Yevhenii3145/training-with-webpack#readme",
+  "dependencies": {
+    "joi": "^17.6.0",
+    "shortid": "^2.2.16"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
